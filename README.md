@@ -1,6 +1,6 @@
 # 少于无 : 黑格尔和辩证唯物主义的阴影（WEB版）
 
-> 在线阅读：【[WEB 版](https://ltn-web.github.io/re0-web)】【[文库版](https://ltn-web.github.io/gitbook/book/markdown/epub.html)】
+> 在线阅读：【[WEB 版](https://ltn-web.github.io/re0-web)】【文库版】
 
 ------
 
@@ -94,5 +94,4 @@ Working in progress...
 此项目是利用 [Honkit](https://github.com/honkit/honkit) 搭建的，同时兼容在 [Github Pages](https://github.com/anartigone/ltn-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
 
 > 关于 **本地** 环境的搭建可见 [honkit-docker-support](https://github.com/honkit/honkit#docker-support) 的说明
-> <br/> 另由于 [`SUMMARY.md`](./gitbook/SUMMARY.md) 索引量较大，[`build.sh|ps1`](./bin/build.sh) 编译一次约需 1 小时，因此要谨慎发布变更
 
