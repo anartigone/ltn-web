@@ -38,10 +38,14 @@ Working in progress...
 ## 0x30 参考资料/相关资源
 
 
-- 李新雨 / 行知学派
+- 李新雨 / 大菠萝的凝视
 
   - 《拉康精神分析介绍性辞典》
+  - 跨拉康圈 (Trans-lacanian) 译文集
+- 精神分析行知学派 (SAVOIR-Y-FAIRE) 
+
   - 《精神分析行知学派拉康精神分析词汇翻译对照表》
+  - 拉康教学与译文集
 
 - 拉黑字幕组 / 张正午
 
@@ -54,7 +58,6 @@ Working in progress...
   - 《拉康研讨班Ⅲ视频导读文字总结版》
   - 《齐泽克的本体论》
   - 《齐泽克：超越福柯》
-
 - 《齐泽克精神分析学文论》 (赵淳) 
 - 《弗洛伊德文集》 (车文博)
 - 《雅克•拉康：阅读你的症状》(吴琼)
@@ -85,6 +88,8 @@ Working in progress...
 - 《从特里格拉夫到列宁格勒》 ([Zveza zvezd](https://www.zhihu.com/column/c_1019892205426798592)) 
 - [Re0：从零开始的异世界生活 （WEB 版）](https://github.com/re-zero-khis/re0-web)
 - [电子书翻译器 (ETCP)](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
+- [翻译的现代性：译者任务、机械复制时代与文本星丛 S2EP24 - 例外状态 State of Exception](https://www.xiaoyuzhoufm.com/episode/63269c8da5d434d0ee90cc0d)
+- [Vol 27 “翻译”作为一种女性主义实践 - 歧义 Disagreement](https://www.xiaoyuzhoufm.com/episode/6429a7301a5480d95859e6f8)
 
 
 

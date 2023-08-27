@@ -20,121 +20,119 @@
   * [从太一到DEN](gitbook/markdown/zh/chapter010/05.md)
   * [“无物存在”](gitbook/markdown/zh/chapter010/06.md)
   * [高尔吉亚，而不是柏拉图，是最主要的斯大林主义者！](gitbook/markdown/zh/chapter010/07.md)
-* 第二章・“在虚无中，读出我爱你”
-  * 一场基督教的悲剧？
-  * 大他者
-  * 上帝之死
-  * 无神论的赌注
-  * “不要向自己的欲望让步”
-  * 拉康反对佛教
-* 第三章・费希特的选择
-  * 从费希特的“我”到黑格尔的“主体”
-  * 费希特的赌注
-  * 原初冲动与行动
-  * 分裂与限度
-  * 有限的绝对
-  * 被设置的预设
-  * 喉咙里的费希特骨头
-  * 第一种现代神学
+* [第二章・“在虚无中，读出我爱你”](gitbook/markdown/zh/chapter020/SUMMARY.md)
+  * [一场基督教的悲剧？](gitbook/markdown/zh/chapter020/00.md)
+  * [大他者](gitbook/markdown/zh/chapter020/01.md)
+  * [上帝之死](gitbook/markdown/zh/chapter020/02.md)
+  * [无神论的赌注](gitbook/markdown/zh/chapter020/03.md)
+  * [“不要向自己的欲望让步”](gitbook/markdown/zh/chapter020/04.md)
+  * [拉康反对佛教](gitbook/markdown/zh/chapter020/05.md)
+* [第三章・费希特的选择](gitbook/markdown/zh/chapter030/SUMMARY.md)
+  * [从费希特的“我”到黑格尔的“主体”](gitbook/markdown/zh/chapter030/00.md)
+  * [费希特的赌注](gitbook/markdown/zh/chapter030/01.md)
+  * [原初冲动与行动](gitbook/markdown/zh/chapter030/02.md)
+  * [分裂与限度](gitbook/markdown/zh/chapter030/03.md)
+  * [有限的绝对](gitbook/markdown/zh/chapter030/04.md)
+  * [被设置的预设](gitbook/markdown/zh/chapter030/05.md)
+  * [喉咙里的费希特骨头](gitbook/markdown/zh/chapter030/06.md)
+  * [第一种现代神学](gitbook/markdown/zh/chapter030/07.md)
 
 ### 第二部分・事物本身：黑格尔
 
-* 第四章・如今还能成为一名黑格尔主义者吗？
-  * 黑格尔对尼采
-  * 斗争与和解
-  * 要讲述的一个故事
-  * 改变命运
-  * 密涅瓦的猫头鹰
-  * 潜在性与虚拟性
-  * 黑格尔的嵌套连环
-* 插曲一・马克思作为黑格尔的读者，黑格尔作为马克思的读者
-* 第五章・并列结构：辩证过程的图像
-  * 理解万岁
-  * 现象、本体与局限
-  * 争议
-  * 否定之否定
-  * 形式与内容
-  * 无填充的否定
-* 插曲二・癫狂史中的我思
-* 第六章・“不仅作为实体，也作为主体”
-  * 具体的普遍性
-  * 黑格尔、斯宾诺莎...还有希区柯克
-  * 黑格尔式主体
-  * 绝对认识
-  * 观念的便秘？
-  * 我所是的动物
-* 插曲三・国王、乌合之众、战争...和性
-* 第七章・黑格尔的局限
-  * 一个列表
-  * 必然性作为自我扬弃的偶然性
-  * 不同形式的自我关联否定
-  * 形式方面
-  * 扬弃与重复
-  * 从重复到驱力
+* [第四章・如今还能成为一名黑格尔主义者吗？](gitbook/markdown/zh/chapter040/SUMMARY.md)
+  * [黑格尔对尼采](gitbook/markdown/zh/chapter040/00.md)
+  * [斗争与和解](gitbook/markdown/zh/chapter040/01.md)
+  * [要讲述的一个故事](gitbook/markdown/zh/chapter040/02.md)
+  * [改变命运](gitbook/markdown/zh/chapter040/03.md)
+  * [密涅瓦的猫头鹰](gitbook/markdown/zh/chapter040/04.md)
+  * [潜在性与虚拟性](gitbook/markdown/zh/chapter040/05.md)
+  * [黑格尔的嵌套连环](gitbook/markdown/zh/chapter040/06.md)
+* [插曲一・马克思作为黑格尔的读者，黑格尔作为马克思的读者](gitbook/markdown/zh/interlude010/00.md)
+* [第五章・并列结构：辩证过程的图像](gitbook/markdown/zh/chapter050/SUMMARY.md)
+  * [理解万岁](gitbook/markdown/zh/chapter050/00.md)
+  * [现象、本体与局限](gitbook/markdown/zh/chapter050/01.md)
+  * [争议](gitbook/markdown/zh/chapter050/02.md)
+  * [否定之否定](gitbook/markdown/zh/chapter050/03.md)
+  * [形式与内容](gitbook/markdown/zh/chapter050/04.md)
+  * [无填充的否定](gitbook/markdown/zh/chapter050/05.md)
+* [插曲二・癫狂史中的我思](gitbook/markdown/zh/interlude020/00.md)
+* [第六章・“不仅作为实体，也作为主体”](gitbook/markdown/zh/chapter060/SUMMARY.md)
+  * [具体的普遍性](gitbook/markdown/zh/chapter060/00.md)
+  * [黑格尔、斯宾诺莎...还有希区柯克](gitbook/markdown/zh/chapter060/01.md)
+  * [黑格尔式主体](gitbook/markdown/zh/chapter060/02.md)
+  * [绝对认识](gitbook/markdown/zh/chapter060/03.md)
+  * [观念的便秘？](gitbook/markdown/zh/chapter060/04.md)
+  * [我所是的动物](gitbook/markdown/zh/chapter060/05.md)
+* [插曲三・国王、乌合之众、战争...和性](gitbook/markdown/zh/interlude030/00.md)
+* [第七章・黑格尔的局限](gitbook/markdown/zh/chapter070/SUMMARY.md)
+  * [一个列表](gitbook/markdown/zh/chapter070/00.md)
+  * [必然性作为自我扬弃的偶然性](gitbook/markdown/zh/chapter070/01.md)
+  * [不同形式的自我关联否定](gitbook/markdown/zh/chapter070/02.md)
+  * [形式方面](gitbook/markdown/zh/chapter070/03.md)
+  * [扬弃与重复](gitbook/markdown/zh/chapter070/04.md)
+  * [从重复到驱力](gitbook/markdown/zh/chapter070/05.md)
 
 ### 第三部分・事物本身：拉康
 
-* 第八章・拉康作为黑格尔的读者
-  * 拉康作为黑格尔的读者
-  * 理性的狡计
-  * 拉康的拟人化
-  * 拉康、马克思、海德格尔
-  * 反转的“魔力”
-  * 反思和假设
-  * 超越主体间性
-  * 驱力对意志
-  * 自我意识的无意识
-* 插曲四・借由未来，改变过去
-* 第九章・缝合与纯粹差异
-  * 从差异性到阳具能指
-  * 从阳具能指到对象a
-  * 西贝柳斯的沉默
-  * 纯粹差异
-* 插曲五・相关主义及其不满
-* 第十章・对象，到处都是对象
-  * 减法、延长、阻碍...毁灭
-  * 形式与内容之间的对象a
-  * 声音与凝视
-  * 祖母的声音
-  * 主人与其幽灵
-  * 幻想的两面
-  * 图像与凝视
-  * 在场
-  * “画面在我的眼中，而我，我在画面中”
-  * 保持屏幕空白！
-* 插曲六・认知主义和自我设定的循环
-* 第十一章・非-全，或性差异的本体论
-  * 祛魅的宇宙中的性差异
-  * 性差异的实在
-  * 性差异公式：带有例外的全部
-  * 性差异公式：非-全
-  * 性差异的二律背反
-  * 拉康为何不是唯名论者？
-  * 否定之否定：拉康对黑格尔？
-  * “存在着一种非关系”
+* [第八章・拉康作为黑格尔的读者](gitbook/markdown/zh/chapter080/SUMMARY.md)
+  * [理性的狡计](gitbook/markdown/zh/chapter080/00.md)
+  * [拉康的拟人化](gitbook/markdown/zh/chapter080/01.md)
+  * [拉康、马克思、海德格尔](gitbook/markdown/zh/chapter080/02.md)
+  * [反转的“魔力”](gitbook/markdown/zh/chapter080/03.md)
+  * [反思和假设](gitbook/markdown/zh/chapter080/04.md)
+  * [超越主体间性](gitbook/markdown/zh/chapter080/05.md)
+  * [驱力对意志](gitbook/markdown/zh/chapter080/06.md)
+  * [自我意识的无意识](gitbook/markdown/zh/chapter080/07.md)
+* [插曲四・借由未来，改变过去](gitbook/markdown/zh/interlude040/00.md)
+* [第九章・缝合与纯粹差异](gitbook/markdown/zh/chapter090/SUMMARY.md)
+  * [从差异性到阳具能指](gitbook/markdown/zh/chapter090/00.md)
+  * [从阳具能指到对象a](gitbook/markdown/zh/chapter090/01.md)
+  * [西贝柳斯的沉默](gitbook/markdown/zh/chapter090/02.md)
+  * [纯粹差异](gitbook/markdown/zh/chapter090/03.md)
+* [插曲五・相关主义及其不满](gitbook/markdown/zh/interlude050/00.md)
+* [第十章・对象，到处都是对象](gitbook/markdown/zh/chapter100/SUMMARY.md)
+  * [减法、延长、阻碍...毁灭](gitbook/markdown/zh/chapter100/00.md)
+  * [形式与内容之间的对象a](gitbook/markdown/zh/chapter100/01.md)
+  * [声音与凝视](gitbook/markdown/zh/chapter100/02.md)
+  * [祖母的声音](gitbook/markdown/zh/chapter100/03.md)
+  * [主人与其幽灵](gitbook/markdown/zh/chapter100/04.md)
+  * [幻想的两面](gitbook/markdown/zh/chapter100/05.md)
+  * [图像与凝视](gitbook/markdown/zh/chapter100/06.md)
+  * [在场](gitbook/markdown/zh/chapter100/07.md)
+  * [“画面在我的眼中，而我，我在画面中”](gitbook/markdown/zh/chapter100/08.md)
+  * [保持屏幕空白！](gitbook/markdown/zh/chapter100/09.md)
+* [插曲六・认知主义和自我设定的循环](gitbook/markdown/zh/interlude060/00.md)
+* [第十一章・非-全，或性差异的本体论](gitbook/markdown/zh/chapter110/SUMMARY.md)
+  * [祛魅的宇宙中的性差异](gitbook/markdown/zh/chapter110/00.md)
+  * [性差异的实在](gitbook/markdown/zh/chapter110/01.md)
+  * [性差异公式：带有例外的全部](gitbook/markdown/zh/chapter110/02.md)
+  * [性差异公式：非-全](gitbook/markdown/zh/chapter110/03.md)
+  * [性差异的二律背反](gitbook/markdown/zh/chapter110/04.md)
+  * [拉康为何不是唯名论者？](gitbook/markdown/zh/chapter110/05.md)
+  * [否定之否定：拉康对黑格尔？](gitbook/markdown/zh/chapter110/06.md)
+  * [“存在着一种非关系”](gitbook/markdown/zh/chapter110/07.md)
 
 ### 第四部分・事后烟
 
-* 第十二章・恐怖、焦虑、勇气......和热情四重奏
-  * 存在/世界/事件
-  * 真理、不一致性与症状点
-  * 人类动物不存在
-  * 巴迪欧反对列维纳斯
-  * 从恐惧到热情
-  * 巴迪欧与反哲学
-* 第十三章・斗争性、历史性、意志......和泰然任之的四重奏
-  * 拉康为何不是海德格尔主义者？
-  * 黑格尔对海德格尔
-  * 语言的刑讯室
-  * 一个替代性的海德格尔
-  * 从意志到驱力
-  * 历史性的非历史核心
-  * 从泰然任之到阶级斗争
-* 第十四章・量子物理学的本体论
-  * 本体论问题
-  * 实在之知
-  * 能动现实主义
-  * 两个真空
-  * Y’a de den
-* 第十五章・拉康作为黑格尔的读者
-* 结语：伦理的政治中止
+* [第十二章・恐怖、焦虑、勇气......和热情四重奏](gitbook/markdown/zh/chapter120/SUMMARY.md)
+  * [存在/世界/事件](gitbook/markdown/zh/chapter120/00.md)
+  * [真理、不一致性与症状点](gitbook/markdown/zh/chapter120/01.md)
+  * [人类动物不存在](gitbook/markdown/zh/chapter120/02.md)
+  * [巴迪欧反对列维纳斯](gitbook/markdown/zh/chapter120/03.md)
+  * [从恐惧到热情](gitbook/markdown/zh/chapter120/04.md)
+  * [巴迪欧与反哲学](gitbook/markdown/zh/chapter120/05.md)
+* [第十三章・斗争性、历史性、意志......和泰然任之的四重奏](gitbook/markdown/zh/chapter130/SUMMARY.md)
+  * [拉康为何不是海德格尔主义者？](gitbook/markdown/zh/chapter130/00.md)
+  * [黑格尔对海德格尔](gitbook/markdown/zh/chapter130/01.md)
+  * [语言的刑讯室](gitbook/markdown/zh/chapter130/02.md)
+  * [一个替代性的海德格尔](gitbook/markdown/zh/chapter130/03.md)
+  * [从意志到驱力](gitbook/markdown/zh/chapter130/04.md)
+  * [历史性的非历史核心](gitbook/markdown/zh/chapter130/05.md)
+  * [从泰然任之到阶级斗争](gitbook/markdown/zh/chapter130/06.md)
+* [第十四章・量子物理学的本体论](gitbook/markdown/zh/chapter140/SUMMARY.md)
+  * [本体论问题](gitbook/markdown/zh/chapter140/00.md)
+  * [实在之知](gitbook/markdown/zh/chapter140/01.md)
+  * [能动现实主义](gitbook/markdown/zh/chapter140/02.md)
+  * [两个真空](gitbook/markdown/zh/chapter140/03.md)
+  * [Y’a de den](gitbook/markdown/zh/chapter140/04.md)
+* [结语：伦理的政治中止](gitbook/markdown/zh/conclusion/00.md)
