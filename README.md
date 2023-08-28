@@ -1,6 +1,6 @@
 # 少于无 : 黑格尔和辩证唯物主义的阴影（WEB版）
 
-> 在线阅读：【[WEB 版](https://anartigone.github.io/ltn-web/)】【[文库版](https://github.com/anartigone/ltn-web/releases/)】
+> 开始阅读：【[在线版](https://anartigone.github.io/ltn-web/)】【[下载版](https://github.com/anartigone/ltn-web/releases/)】
 
 ------
 
@@ -20,7 +20,6 @@
 
 ![](preview.png)
 
-
 ## 0x20 项目简介
 
 这是《少于无 : 黑格尔和辩证唯物主义的阴影》 WEB 版的汉化项目，也是[re0-web](https://github.com/re-zero-khis/re0-web)的一个fork。目前每个章节的完整汉化流程包括：
@@ -31,8 +30,6 @@
 4. 编排（文档格式）
 
 这是一个知识开源计划的试水项目。翻译环节用的是[电子书翻译器 (ETCP)](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)的DeepL引擎+自定义词汇表、润色环节用的是ChatGPT、校对**需要每个读者参与纠错和反馈** (欢迎提issue/开discussion讨论译法) 、排版手动写Markdown。
-
-
 
 
 ## 0x30 参考资料/相关资源
@@ -89,8 +86,6 @@
 - [电子书翻译器 (ETCP)](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 - [翻译的现代性：译者任务、机械复制时代与文本星丛 S2EP24 - 例外状态 State of Exception](https://www.xiaoyuzhoufm.com/episode/63269c8da5d434d0ee90cc0d)
 - [Vol 27 “翻译”作为一种女性主义实践 - 歧义 Disagreement](https://www.xiaoyuzhoufm.com/episode/6429a7301a5480d95859e6f8)
-
-
 
 ## 0xF0 致开发者
 
