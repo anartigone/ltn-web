@@ -9,7 +9,7 @@
 - 【PC/手机】用户均可从这个链接[直接阅读](https://anartigone.github.io/ltn-web/)
 - 【手机】用户若加载时间过长，也可以阅读纯文字版：
   <br/>　（1）[注册](https://github.com/join?source=header-home) 一个 Github 账号
-  <br/>　（2）点击此项目仓库([ltn-web](https://github.com/anartigone/ltn-web))右上角的 ![star](https://github.com/anartigone/ltn-web?style=social) 和 ![fork](https://github.com/anartigone/ltn-web?style=social) 按钮
+  <br/>　（2）点击此项目仓库([ltn-web](https://github.com/anartigone/ltn-web))右上角的 **Star** 和 **Fork** 按钮
   <br/>　（3）从 Google/App Store 搜索并安装 APP 【Github】 ，登录之
   <br/>　（4）在【仓库】中找到 [ltn-web](https://github.com/anartigone/ltn-web)，点击打开
   <br/>　（5)点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/zh` 下即为各个章节的内容
@@ -18,7 +18,7 @@
 
 ## 0x10 内容预览
 
-Working in progress...
+![](preview.png)
 
 
 ## 0x20 项目简介

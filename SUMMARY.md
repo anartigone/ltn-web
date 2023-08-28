@@ -2,7 +2,6 @@
 
 * [项目介绍](/README.md)
 * [序言](gitbook/README.md)
-* [译名字典](gitbook/markdown/translation.md)
 
 ----
 
@@ -136,3 +135,6 @@
   * [两个真空](gitbook/markdown/zh/chapter140/03.md)
   * [Y’a de den](gitbook/markdown/zh/chapter140/04.md)
 * [结语：伦理的政治中止](gitbook/markdown/zh/conclusion/00.md)
+* [原文注释](gitbook/markdown/zh/footnotes/00.md)
+
+- [译名字典](gitbook/markdown/translation.md)
