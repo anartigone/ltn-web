@@ -1,6 +1,6 @@
 # 少于无 : 黑格尔和辩证唯物主义的阴影（WEB版）
 
-> 在线阅读：【[WEB 版](https://anartigone.github.io/ltn-web/)】【文库版】
+> 在线阅读：【[WEB 版](https://anartigone.github.io/ltn-web/)】【[文库版](https://github.com/anartigone/ltn-web/releases/)】
 
 ------
 
