@@ -14,32 +14,14 @@
 Television
 《电视》
 
-Seminars
-研讨班
-
-seminars
-研讨班
-
-seminar
-研讨班
-
 Seminar
 研讨班
 
 Rapport de Rome
 《罗马报告》
 
-Ecrits
-《文集 (Ecrits)》
-
 Écrits
 《文集 (Écrits)》
-
-ecrits
-《文集 (ecrits)》
-
-écrits
-《文集 (écrits)》
 
 Sigmund Freud
 西格蒙德·弗洛伊德 (Sigmund Freud) 
@@ -68,14 +50,8 @@ Freud
 Jacques Lacan
 雅克·拉康 (Jacques Lacan) 
 
-in Lacanese
-用拉康的话说
-
 Lacano-Hegelian
 拉康-黑格尔式
-
-lacanese
-拉康语
 
 Lacanese
 拉康语
@@ -88,9 +64,6 @@ Lacanian ethics
 
 Lacanians
 拉康派
-
-lacanian
-拉康式
 
 Lacanian
 拉康式
@@ -475,9 +448,6 @@ Gorgias
 
 ## 短语
 
-DO NOT COMPROMISE YOUR DESIRE
-不要向自己的欲望让步
-
 Do not compromise your desire
 不要向自己的欲望让步
 
@@ -662,9 +632,6 @@ little piece of the real
 le peu du réel
 实在界的碎片 (le peu du réel) 
 
-le peu de réel
-实在界的碎片 (le peu de réel) 
-
 la réponse du réel
 实在界的应答 (la réponse du réel) 
 
@@ -701,26 +668,17 @@ breasts, feces, penis
 the lack-of-being
 存在之缺失 (lack-of-being) 
 
-the lack of being
-存在之缺失 (lack of being) 
-
 je ne sais quoi
 不可捉摸 (je ne sais quoi) 
 
 Vulgari eloquentia
 俗话说 (Vulgari eloquentia) 
 
-vulgari eloquentia
-俗话说 (vulgari eloquentia) 
-
 there is no Sein without Da-Sein as its locality
 没有此在 (Da-Sein) 作为其位置也就没有存在 (Sein) 
 
 knowledge in the real
 实在之知 (knowledge in the real) 
-
-KNOWLEDGE IN THE REAL
-实在之知
 
 Good is a mask of Evil
 善是恶的面具 (Good is a mask of Evil) 
@@ -858,3 +816,31 @@ The Fathoms they abide—
 - subjectivization和subjectivation的译法十分难以区别，大部分参考都将两者译成了“主体化”。这里将subjectivation译为“主观化”，仅为加以区分。
 - hommelette是由 "homme"（人）和 "omelette"（煎蛋）两个词合并而成的。为了体现摊成薄片的形态，故译作人形煎饼/煎饼人。
 - something/Something结合语境分别翻译成了“某物”/“有”，可能需要在精校时逐一修订以避免歧义和错误。
+
+- Idealism/Idealist统一译作了“观念论/论者“，可能在某些地方存在“理想/唯心主义“更恰当的情况，需要在精校时核对。
+- 弗洛伊德发明了很多以Ver开头的精神分析术语，齐泽克会以不同方式概括并称呼它们，比如：Ver系列 (series of Vers) 、Ver列表 (list of Ver-s) 、V字头 (Ver-) 。但它们都是同一个意思。
+- 由于都是日常口语，moron和idiot在英文语境下都是根据使用者的习惯任意混用的。中文翻译通常也较为随意，参考习惯译法选择了”傻子“和“白痴“。
+
+- 为了体现齐泽克为imbecile设计的文字游戏，特意将它译作了“弱智”。如此便可在(im)becile出现时设计出同音字文字游戏 “(若/弱) 智“，以及从常用成语中拆出的“若愚“对应becile。从而让这两个文字游戏在翻译后依然保持趣味性与连续性。
+
+- undead在娱乐作品中常见的译法有不死人、活死人、亡灵、活尸等等，而为了体现出其特性undeadness，最佳的译法唯有“不死“这个直译。
+
+- 为了体现the Infinite和the Absolute常被简单地译作“无限”和“绝对”，无法体现其大写的特性。若要译成“大写的无限/绝对“又有些冗长，故参照“大他者 (the Other) ”将它们译作了“无限者”与“绝对者”。
+
+- a grain of truth是美国成语a grain of salt的文字游戏，后者源自古罗马学者老普林尼的《博物志》。其中记载了一种解毒剂，配方是“一粒盐”。尽管其荒谬程度令人在直觉上难以置信，但是由于传承了数千年之久，其真实的可能性尽管微乎其微但也不容忽视。a grain of salt也因此成了表达半信半疑、不置可否式的怀疑态度的成语。依照“半信半疑“，把a grain of truth译成了“半点真理”。
+
+- stuckness可以有很多译法，但是为了不扭曲原意且能体现其简单粗暴的口语书面化特点，译成了“卡住性”。
+
+- 游戏术语cheat-codes原本可以简单译作“秘籍/秘技”的，但是结合语境后为了避免误解，逐字翻译成了“作弊秘籍“。
+
+- 为了保留双关语(hi)story的嘲讽性，将其译作“(历史) 故事”。
+
+- the new order to replace the old one有秩序更迭的意思，译作“新旧交替“并非尽善尽美但也未失原意。
+
+- The Complete Idiot’s Guide to Hegel (写给完全白痴的黑格尔导读) 是在恶搞 (玩梗) 的多林金德斯利的“Complete Idiot's Guides“系列丛书，无论书名还是内容都要比技术领域的“For Dummies“系列丛书更加夸张。
+
+- going to pieces without falling apart是一句容易理解但难以翻译的话，“分而不离“是目前能想到的最为恰当的译法。
+
+- the loss of object和the lost object是一组对子，为了对偶性，译成了“对象的失落“和“失落的对象“。而另一组对子“欲望的失落对象成因 (the lost object-cause of desire)”和“驱力的对象丧失 (the object-loss of the drive)”就难以继续维持对偶性了，而且还十分拗口，希望以后能有所改进。
+
+  
