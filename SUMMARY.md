@@ -137,4 +137,4 @@
 * [结语：伦理的政治中止](gitbook/markdown/zh/conclusion/00.md)
 * [原文注释](gitbook/markdown/zh/footnotes/00.md)
 
-- [译名字典](gitbook/markdown/translation.md)
+- [翻译词汇表](gitbook/markdown/translation.md)

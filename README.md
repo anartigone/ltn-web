@@ -13,7 +13,7 @@
   <br/>　（3）从 Google/App Store 搜索并安装 APP 【Github】 ，登录之
   <br/>　（4）在【仓库】中找到 [ltn-web](https://github.com/anartigone/ltn-web)，点击打开
   <br/>　（5)点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/zh` 下即为各个章节的内容
-- 请习惯做笔记的读者积极参与纠错、反馈阅读中遇到的各种问题
+- 希望热心的读者能积极参与纠错、反馈阅读中遇到的各种问题
 
 
 ## 0x10 内容预览
@@ -29,10 +29,12 @@
 3. 校对（专有名词修正、所有章节一致化）
 4. 编排（文档格式）
 
-这是一个知识开源计划的试水项目。翻译环节用的是[电子书翻译器 (ETCP)](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)的DeepL引擎+自定义词汇表、润色环节用的是ChatGPT、校对**需要每个读者参与纠错和反馈** (欢迎提issue/开discussion讨论译法) 、排版手动写Markdown。
+这是一个知识开源计划的试水项目。翻译环节用的是[电子书翻译器 (ETCP)](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)的DeepL引擎+自定义词汇表、润色环节用的是ChatGPT、校对**需要每个读者参与纠错和反馈** (欢迎提issue/开discussion讨论译法) 、优化排版和修复注释链接 (欢迎直接pr) 。
+
+更多翻译详情请见[译者注释](https://anartigone.github.io/ltn-web/gitbook/markdown/translation.html#译者注释)
 
 
-## 0x30 参考资料/相关资源
+## 0x30 相关资源
 
 
 - 李新雨 / 大菠萝的凝视
@@ -86,6 +88,16 @@
 - [电子书翻译器 (ETCP)](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 - [翻译的现代性：译者任务、机械复制时代与文本星丛 S2EP24 - 例外状态 State of Exception](https://www.xiaoyuzhoufm.com/episode/63269c8da5d434d0ee90cc0d)
 - [Vol 27 “翻译”作为一种女性主义实践 - 歧义 Disagreement](https://www.xiaoyuzhoufm.com/episode/6429a7301a5480d95859e6f8)
+
+## 0x40 许可证和版权
+
+代码基于GNU通用许可协议第三版发布：[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+
+这是自由软件：你可以自由地修改和重新发布它。 在法律允许的范围内，**不提供任何保证**。
+
+翻译内容遵循知识共享许可协议 (保持署名—非商用—相同方式共享)：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+允许修改和无通知转载，请附上本仓库链接及本声明，**禁止商用**。
 
 ## 0xF0 致开发者
 
