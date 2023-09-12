@@ -10,9 +10,9 @@
 - 【手机】用户若加载时间过长，也可以阅读纯文字版：
   <br/>　（1）[注册](https://github.com/join?source=header-home) 一个 Github 账号
   <br/>　（2）点击此项目仓库([ltn-web](https://github.com/anartigone/ltn-web))右上角的 **Star** 和 **Fork** 按钮
-  <br/>　（3）从 Google/App Store 搜索并安装 APP 【Github】 ，登录之
+  <br/>　（3）从 Google/App Store 搜索并安装 APP 【Github】 并登录
   <br/>　（4）在【仓库】中找到 [ltn-web](https://github.com/anartigone/ltn-web)，点击打开
-  <br/>　（5)点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/zh` 下即为各个章节的内容
+  <br/>　（5）点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/zh` 下即为各个章节的内容
 - 希望热心的读者能积极参与纠错、反馈阅读中遇到的各种问题
 
 
@@ -31,7 +31,21 @@
 
 这是一个知识开源计划的试水项目。翻译环节用的是[电子书翻译器 (ETCP)](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)的DeepL引擎+自定义词汇表、润色环节用的是ChatGPT、校对**需要每个读者参与纠错和反馈** (欢迎提issue/开discussion讨论译法) 、优化排版和修复注释链接 (欢迎直接pr) 。
 
+校对参与者可以参考双语版 (提示：由于DeepL是AI引擎所以每次机翻结果会略有不同，请以网页版为准) 
+
 更多翻译详情请见[译者注释](https://anartigone.github.io/ltn-web/gitbook/markdown/translation.html#译者注释)
+
+> 看中译本还不如直接看机翻的呢，高手都是读机翻的。
+>
+> ——张正午
+
+为了提供高质量的机翻文本作为开源翻译的基底，本项目参考了拉黑字幕组译作中的用语习惯，制作出上千行的自定义词汇表以确保专业术语的翻译准确性，而非[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)那种无脑机翻。在对比过谷歌翻译、DeepL和GPT-3.5 Turbo之后，最终选择用DeepL翻译基础文本、用ChatGPT手动进行特定句子润色的方式生成了可读性较高的翻译结果。
+
+> 两种模式的根本不同点在于他们对软件排错有着完全对立的认识。我从Linux的经验出发，证实了这样一个命题：“只要眼睛多，bug容易捉。”
+>
+> ——Eric S.Raymond 《大教堂与集市》
+
+在未来，绝大多数商业公司/出版社所采用的“大教堂”模式将被开源世界采用的“集市”模式所取代。这个变革不应局限于软件行业，也应燎原于文化行业。让书友们像程序员给软件源代码排错那样，来校对自由开源的电子书吧！
 
 
 ## 0x30 相关资源
