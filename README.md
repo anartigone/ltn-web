@@ -13,7 +13,7 @@
   <br/>　（3）从 Google/App Store 搜索并安装 APP 【Github】 并登录
   <br/>　（4）在【仓库】中找到 [ltn-web](https://github.com/anartigone/ltn-web)，点击打开
   <br/>　（5）点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/zh` 下即为各个章节的内容
-- 希望热心的读者能积极参与纠错、反馈阅读中遇到的各种问题
+- 希望热心的读者能积极参与纠错、反馈阅读中遇到的各种问题，电报群：[未竟共同体](https://t.me/+Ps3zrIsWwH1jMjE5)
 
 
 ## 0x10 内容预览
